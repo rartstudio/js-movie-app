@@ -1,0 +1,44 @@
+data dari api tmdb api
+
+data :
+adult
+backdrop_path
+belongs_to_collection
+    backdrop_path
+    id
+    name
+    poster_path
+budget
+genres
+    1
+    2
+    3
+homepage
+id
+imdb_id
+original_language
+original_title
+overview
+popularity
+poster_path
+production_company
+    1
+    2
+    3
+production_countries
+    1
+    2
+    3
+release_date
+revenue
+runtime
+spoken_language
+    1
+    2
+    3
+status
+tagline
+title
+video
+vote_average
+vote_count
